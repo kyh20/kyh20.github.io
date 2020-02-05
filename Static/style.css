@@ -3,7 +3,7 @@ body {
   font-size: 125%;
 }
 
-.head {
+head {
   border: 1px solid black;
   outline-style: solid;
   outline-color: blue;
