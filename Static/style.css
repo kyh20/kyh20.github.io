@@ -3,14 +3,14 @@ body {
   font-size: 125%;
 }
 
-p.head {
+.head {
   border: 1px solid black;
   outline-style: solid;
   outline-color: blue;
   outline-width: medium;
 }
 
-h1 { 
+.h1 { 
   font-variant: small-caps;
   text-align: center;
   margin-bottom: 15px;
@@ -22,7 +22,7 @@ ul.main-menu {
     padding: 0;
 }
 ul.main-menu>li {
-    display: inline;
+    display: center;
 }
 .frame {
 width: 70%;
