@@ -4,9 +4,7 @@ body {
 }
 
 head {
-  border: 1px solid black;
   outline-style: solid;
-  outline-color: blue;
   outline-width: medium;
 }
 
@@ -14,11 +12,15 @@ h1 {
   font-variant: small-caps;
   text-align: center;
   margin-bottom: 15px;
+  Outline: Border;
+  Outline-style: solid;
+  Outline-width: Medium;
+  Outline-color: #0f06d4;
 }
 
 ul.main-menu {
     list-style-type: square;
-    margin: 0;
+    margin: 10px;
     padding: 0;
 }
 ul.main-menu>li {
