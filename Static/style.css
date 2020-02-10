@@ -3,29 +3,29 @@ body {
   font-size: 125%;
 }
 
-.head {
+head {
   border: 1px solid black;
   outline-style: solid;
   outline-color: blue;
   outline-width: medium;
 }
 
-.h1 { 
+h1 { 
   font-variant: small-caps;
   text-align: center;
   margin-bottom: 15px;
 }
 
-.ul.main-menu {
+ul.main-menu {
     list-style-type: square;
     margin: 0;
     padding: 0;
 }
-.ul.main-menu>li {
+ul.main-menu>li {
     display: inline;
 }
-.frame {
-.width: 70%;
+frame {
+width: 70%;
   margin-left: auto;
   margin-right: auto;
   display: block;
