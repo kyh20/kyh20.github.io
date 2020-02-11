@@ -15,7 +15,9 @@ h1 {
   Outline: Border;
   Outline-style: solid;
   Outline-width: Medium;
-  Outline-color: #0f06d4;
+  Outline-color: #090173;
+  background-color: #090173;
+  text-color: #f0e0b1;
 }
 
 ul.main-menu {
