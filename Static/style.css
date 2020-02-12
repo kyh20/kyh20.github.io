@@ -1,5 +1,4 @@
 body {
-  font-family: 'URW Chancery L', Cursive;
   font-size: 125%;
   text-color: #f0e0b1;
 }
@@ -11,6 +10,7 @@ head {
 
 h1 { 
   font-variant: small-caps;
+  font-family: 'URW Chancery L', Cursive;
   text-align: center;
   margin-bottom: 15px;
   Outline: Border;
@@ -41,3 +41,13 @@ p {
   text-align: center;
   font-family: serif;
   text-color: #000000;
+}
+footer {
+   text-align: center;
+  margin-bottom: 15px;
+  Outline: Border;
+  Outline-style: solid;
+  Outline-width: Medium;
+  Outline-color: #090173;
+  background-color: #090173;
+}
