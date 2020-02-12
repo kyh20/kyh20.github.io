@@ -1,6 +1,7 @@
 body {
   font-family: 'URW Chancery L', Cursive;
   font-size: 125%;
+  text-color: #f0e0b1;
 }
 
 head {
@@ -39,3 +40,4 @@ width: 70%;
 p {
   text-align: center;
   font-family: serif;
+  text-color: #000000;
