@@ -51,3 +51,7 @@ footer {
   Outline-color: #090173;
   background-color: #090173;
 }
+th {
+  background-color: #4CAF50;
+  color: white;
+}
