@@ -3,6 +3,10 @@ body {
   text-color: #f0e0b1;
 }
 
+title {
+    text-color: #ffffff;
+}
+
 head {
   outline-style: solid;
   outline-width: medium;
