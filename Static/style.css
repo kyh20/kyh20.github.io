@@ -6,6 +6,7 @@ body {
 head {
   outline-style: solid;
   outline-width: medium;
+  text-color: #ffffff;
 }
 
 h1 { 
