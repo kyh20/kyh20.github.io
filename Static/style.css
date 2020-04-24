@@ -26,11 +26,7 @@ h1 {
   text-color: #FFE4D2;
 }
 
-ul.main-menu {
-    list-style-type: square;
-    margin: 10px;
-    padding: 0;
-  text-align: center;
+
 }
 ul.main-menu>li {
     display: inline;
